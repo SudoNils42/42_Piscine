@@ -25,21 +25,10 @@ The 42 Piscine is structured around progressive modules, each introducing core c
 
 > Note: some rush/shell exercises are not included in this repository.
 
-## 42 Norm
+## 42 Norm and compilation
 
-All code is written in the **42 Norm**
-
-- Max **25 lines** per function
-- Max **5 parameters** per function
-- Max **5 variables** declared per scope
-- ...
-
----
-
-## Compilation
+All code is written in the **42 Norm** and compile with:
 
 ```bash
 gcc -Wall -Wextra -Werror -o output file.c
 ```
-
----
