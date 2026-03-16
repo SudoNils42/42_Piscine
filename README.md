@@ -1,10 +1,14 @@
 # 42 Piscine — C Programming Bootcamp
 
-This repository contains all the C modules I validated during the 42 Piscine — a 4-week intensive coding bootcamp that serves as the entry selection process for 42 Lausanne.
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnubash&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
+This repository contains all the C modules I validated during the 42 Piscine — a 4-week intensive coding bootcamp that serves as the entry selection process for 42 Lausanne.
 Each module focuses on a specific set of concepts in C programming, validated through peer reviews and the **Moulinette** checker program.
 
 > Final exam grade: **70% (Pass)**
+
 ---
 
 ## Overview of the modules
@@ -27,7 +31,7 @@ The 42 Piscine is structured around progressive modules, each introducing core c
 
 ## 42 Norm and compilation
 
-All code is written in the **42 Norm** and compile with:
+All code is written in the **42 Norm** and compiles with:
 
 ```bash
 gcc -Wall -Wextra -Werror -o output file.c
