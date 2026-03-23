@@ -5,7 +5,7 @@
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
 This repository contains all the C modules I validated during the 42 Piscine — a 4-week intensive coding bootcamp that serves as the entry selection process for 42 Lausanne.
-Each module focuses on a specific set of concepts in C programming, validated through peer reviews and the **Moulinette** checker program.
+Each module focuses on a specific set of concepts in C programming, validated through peer reviews and the Moulinette checker program.
 
 > Final exam grade: **70% (Pass)**
 
